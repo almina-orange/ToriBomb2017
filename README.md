@@ -2,8 +2,8 @@
 ver 170108
 <p>
 <a href="https://tanakaedu.github.io/ToriBomb2017/webgl/index.html" target="_blank">
-<img src="images/img0.png" height="240px" alt="タイトル画面">
-<img src="images/img1.png" height="240px" alt="ゲーム画面">
+<img src="https://tanakaedu.github.io/ToriBomb2017/images/img0.png" height="240px" alt="タイトル画面">
+<img src="https://tanakaedu.github.io/ToriBomb2017/images/img1.png" height="240px" alt="ゲーム画面">
 <p>ゲームで遊ぶ</p>
 </a>
 </p>
@@ -30,7 +30,7 @@ ver 170108
 バグの確認や報告は[こちら](https://github.com/tanakaedu/ToriBomb2017/issues)へどうぞ。
 
 # リソースリスト
-本作品で使われている<a href="リソースリスト.xlsx" target="_blank">リソースリスト</a>です。
+本作品で使われている<a href="https://tanakaedu.github.io/ToriBomb2017/リソースリスト.xlsx" target="_blank">リソースリスト</a>です。
 
 全て自作のリソースで作成しています。
 
