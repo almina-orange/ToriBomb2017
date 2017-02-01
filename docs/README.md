@@ -1,13 +1,38 @@
-# Midnight
+# 正月休み課題「鶏Bomb2017」
+ver 170108
+<p>
+<a href="webgl/index.html" target="_blank">
+<img src="images/img0.png" height="240px" alt="タイトル画面">
+<img src="images/img1.png" height="240px" alt="ゲーム画面">
+<p>ゲームで遊ぶ</p>
+</a>
+</p>
 
-Open source content for Midnight theme. Theme was first designed / developed for GitHub Pages and is available for download, forking and using anywhere else on the web.
+# ルール
+画面の上から卵が降ってきます。これを爆風で孵化させてください。
 
-![Midnight Theme](http://f.cl.ly/items/2G0Q031t2K3h0F2i3V1E/Screen%20Shot%202012-12-25%20at%208.38.55%20AM.png)
+卵が下に落ちて割れたらゲームオーバーです。
 
-The Midnight Pages demo is [here](http://mattgraham.github.com/midnight)
+# 操作方法
+- 画面をタップした場所に爆弾が置かれます
+- 爆弾は一定時間が経過すると爆発します
+- 爆風で卵を孵してください
+- 爆風に触れた爆弾も、爆発します
 
-*Note Additional font characters for OpenSans typeface can be found in [v1.1](https://github.com/mattgraham/Midnight/archive/v1.1.zip)
+# 高得点のヒント
+- 卵は画面下で孵化させるほど高得点です
+- 一つの爆風で、複数の卵を孵すと得点が増えます
+- 誘爆させた爆風で孵化させると、得点が増えます
 
-Theme by [Matt Graham](http://madebygraham.com), twitter [@michigangraham](http://twitter.com/#!/michigangraham)
+# 既知のバグ
+まだ開発中のため、バグがあります。
 
-[Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/)
+バグの確認や報告は[こちら](https://github.com/tanakaedu/ToriBomb2017/issues)へどうぞ。
+
+# リソースリスト
+本作品で使われている<a href="リソースリスト.xlsx" target="_blank">リソースリスト</a>です。
+
+全て自作のリソースで作成しています。
+
+---
+Copyright(C)2017 YuTanaka
